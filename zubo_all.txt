@@ -1,4 +1,4 @@
-2026/07/11 08:40更新,#genre#
+2026/07/11 17:48更新,#genre#
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 广西电信-组播1,#genre#
 广西卫视,http://222.218.122.147:8188/udp/239.81.0.107:4056
